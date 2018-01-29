@@ -1,0 +1,1 @@
+"Tea Cozy" 2nd project for Codecademy by Catherine Hille January 2018
